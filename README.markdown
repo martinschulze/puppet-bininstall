@@ -1,4 +1,4 @@
-# locale #
+# bininstall #
 
 This defined type downloads and installs a binary package by various methods.
 
